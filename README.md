@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Full Stack developer, living in Colombia. I Have Knowledge in JavaScript, Git, docker, cloud like Azure, AWS and OCI. Solid knowledge in SQL.
 
 <!--
 **sebpal98/sebpal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
