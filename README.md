@@ -3,7 +3,7 @@ Full Stack developer, I'm currently programing in MERN stack. But a like Microso
 
 - 🌱 I’m currently learning ... Docker + PostgresQL and Next.JS
 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
   
 <!--
